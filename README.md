@@ -12,3 +12,9 @@ Buka terminal atau command prompt, kemudian jalankan perintah berikut:
 
 ```bash
 git clone https://github.com/wahyualvyy/UAS_KECERDASAN-BUATAN.git
+
+Buka foldernya
+cd UAS_KECERDASAN-BUATAN
+
+dan jalankan
+python run.py
