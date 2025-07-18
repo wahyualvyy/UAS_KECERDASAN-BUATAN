@@ -1,20 +1,23 @@
-# UAS KECERDASAN BUATAN
+# ⚙️ Cara Menjalankan Proyek
 
-Repositori ini berisi script yang digunakan untuk tugas UAS dalam bidang Kecerdasan Buatan. Repositori ini mencakup berbagai aplikasi dan teknik yang berkaitan dengan kecerdasan buatan (AI) yang dapat digunakan dalam berbagai kasus.
+Ikuti langkah-langkah berikut untuk mengunduh dan menjalankan proyek ini di komputer lokal Anda.
 
-## Cara Mengambil Script dari Repositori ini
+untuk run tinggal masukkan prompt
+python run.py
 
-Untuk meng-clone repositori ini ke dalam komputer Anda, ikuti langkah-langkah berikut:
+## 1. Prasyarat
 
-### 1. Clone Repositori
+Pastikan Anda sudah menginstal perangkat lunak berikut:
 
-Buka terminal atau command prompt, kemudian jalankan perintah berikut:
+- **Python** (versi 3.8 atau lebih baru direkomendasikan)
+- **Git**
+- **Pip** (biasanya sudah terinstal bersama Python)
+
+## 2. Instalasi
+
+### a. Clone Repositori
+
+Salin repositori ini ke komputer Anda dengan perintah berikut:
 
 ```bash
 git clone https://github.com/wahyualvyy/UAS_KECERDASAN-BUATAN.git
-
-Buka foldernya
-cd UAS_KECERDASAN-BUATAN
-
-dan jalankan
-python run.py
